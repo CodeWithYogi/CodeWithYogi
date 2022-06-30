@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithyogi" alt="codewithyogi" /></a> </p>
 
-I'm Front end Developer. The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive)
+Courteous and enthusiastic, I am intersted in IT and everything in its orbit. I recently began to be fascinated by web programming, e.g. developing aaps and building websites. Invited to join my friend's start up company as a front end developer, I gain more experiance of working in this area. As this area complements my studies, I am keen to gain more experiance in the field. For this reason, I am looking for a company willing to offer me a placement among their developers. In return, I would offer my full commitment, and be a pleasant and friendly addition to your team. <br><br> I am therefore currently looking for a job or an internship as a front-end-developer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
