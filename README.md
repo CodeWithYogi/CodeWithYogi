@@ -7,15 +7,15 @@
 
 
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+- 🌱 I’m currently working in Mahendrada softech solution private limited where i am working as a software associate and my role is a front end developer**
 
-- 📫 How to reach me **ysahastrabuddhe@gmail.com**
+- 📫 How to reach me **ysahastrabuddhe@outlook.com**
 
 - ⚡ Fun fact **I am funny**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithyogi" alt="codewithyogi" /></a> </p>
 
-Courteous and enthusiastic, I am intersted in IT and everything in its orbit. I recently began to be fascinated by web programming, e.g. developing aaps and building websites. Invited to join my friend's start up company as a front end developer, I gain more experiance of working in this area. As this area complements my studies, I am keen to gain more experiance in the field. For this reason, I am looking for a company willing to offer me a placement among their developers. In return, I would offer my full commitment, and be a pleasant and friendly addition to your team. <br><br> I am therefore currently looking for a job or an internship as a front-end-developer.
+Courteous and enthusiastic, I am intersted in IT and everything in its orbit. I recently began to be fascinated by web programming, e.g. developing aaps and building websites. I gain more experiance of working in this area. As this area complements my studies, I am keen to gain more experiance in the field. For this reason, I am looking for a company willing to offer me a placement among their developers. In return, I would offer my full commitment, and be a pleasant and friendly addition to your team. <br><br> I am therefore currently looking for a job as a front-end-developer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
